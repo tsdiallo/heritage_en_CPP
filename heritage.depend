@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1554113082 source:h:\glrs2\c++\heritage\etudiant.cpp
+	"etudiant.h"
+
+1554113218 source:h:\glrs2\c++\heritage\main.cpp
+	"etudiant.h"
+
+1554113019 source:h:\glrs2\c++\heritage\personne.cpp
+	"personne.h"
+
+1554109080 h:\glrs2\c++\heritage\personne.h
+	<iostream>
+
+1554113030 h:\glrs2\c++\heritage\etudiant.h
+	"personne.h"
+
